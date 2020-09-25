@@ -195,16 +195,12 @@
             position: absolute;
             content: "";
             border-radius: 50%;
-            background-color: 
-#6ecada;
-            background-image: linear-gradient(-133deg,#899664 0,
-#6ecada 100%)
+            background-color: #f18eb0;
+            background-image: linear-gradient(-133deg,#899664 0,#f18eb0 100%)
         }
         &::after{
-            background-color: 
-#6ecada;
-            background-image: linear-gradient(-133deg,#899664 0,
-#6ecada 100%);
+            background-color: #f18eb0;
+            background-image: linear-gradient(-133deg,#899664 0,#f18eb0 100%);
             width: 90px;
             height: 90px;
             top: 20px;

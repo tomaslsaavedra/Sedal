@@ -82,18 +82,15 @@ Counterup Area
             border: 30px solid $theme-color;
             
             @media #{$lg-layout} {
-                border: 5px solid 
-#6ecada;
+                border: 5px solid #f18eb0;
             }
 
             @media #{$md-layout} {
-                border: 5px solid 
-#6ecada;
+                border: 5px solid #f18eb0;
             }
 
             @media #{$sm-layout} {
-                border: 5px solid 
-#6ecada;
+                border: 5px solid #f18eb0;
             }
         }
         .inner{

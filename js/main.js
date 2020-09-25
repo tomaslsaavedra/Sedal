@@ -579,26 +579,22 @@
         "time": {
             "Days": {
                 "text": "Days",
-                "color": "
-#6ecada",
+                "color": "#f18eb0",
                 "show": true
             },
             "Hours": {
                 "text": "Hours",
-                "color": "
-#6ecada",
+                "color": "#f18eb0",
                 "show": true
             },
             "Minutes": {
                 "text": "Minutes",
-                "color": "
-#6ecada",
+                "color": "#f18eb0",
                 "show": true
             },
             "Seconds": {
                 "text": "Seconds",
-                "color": "
-#6ecada",
+                "color": "#f18eb0",
                 "show": true
             }
         }

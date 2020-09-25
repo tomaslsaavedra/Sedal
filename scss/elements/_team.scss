@@ -172,8 +172,7 @@
                             border-radius: 5px;
                             box-shadow: 4px 4px 8px rgba(0, 0, 0, .3);
                             content: attr(aria-label);
-                            background-color: 
-#6ecada;
+                            background-color: #f18eb0;
                         }
 
                         &.hint--bounce {
@@ -198,8 +197,7 @@
 
                             &::before {
                                 margin-bottom: -13px;
-                                border-top-color: 
-#6ecada;
+                                border-top-color: #f18eb0;
                                 left: calc(50% - 7px);
                             }
 
@@ -320,8 +318,7 @@
                 width: 100%;
             }
             .overlay {
-                background-color: 
-#6ecada;
+                background-color: #f18eb0;
                 position: absolute;
                 top: 0;
                 left: 0;
@@ -465,8 +462,7 @@
                 visibility: hidden;
                 background-blend-mode: multiply;
                 background-size: cover;
-                background-color: 
-#6ecada;
+                background-color: #f18eb0;
                 -webkit-transition: all .3s cubic-bezier(.645,.045,.355,1);
                 transition: all .3s cubic-bezier(.645,.045,.355,1);
                 &.red-color{
